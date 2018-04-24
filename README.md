@@ -1,4 +1,5 @@
 # Machine Learning Engineer Nanodegree
+<img src='Final smartcab.jpg'><br>
 # Reinforcement Learning
 ## Project: Train a Smartcab How to Drive
 
